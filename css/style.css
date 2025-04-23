@@ -436,7 +436,7 @@ nav {
     }
     border: none;
     box-shadow:0 2px 15px rgb(0 0 0 / 10%);
-    animation: identifier 5s linear forwards;
+    animation: identifier 3s linear forwards;
     animation-timeline: view();
     animation-range: entry 0%;
 }
