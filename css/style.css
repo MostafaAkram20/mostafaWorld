@@ -192,7 +192,7 @@ nav {
 }
 
 .otherLinks-menu img {
-    width: 90%;
+    max-width: 90%;
 }
 
 
@@ -291,7 +291,7 @@ nav {
 
     img {
         position: relative;
-        width: 100%;
+        max-width: 100%;
         animation: up-down 4s linear infinite;
     }
 }
@@ -432,7 +432,7 @@ nav {
     /* padding: 5px; */
     margin: 15px;
     img {
-        width: 100%;
+        max-width: 100%;
     }
     border: none;
     box-shadow:0 2px 15px rgb(0 0 0 / 10%);
@@ -553,7 +553,7 @@ i {
     overflow: hidden;
 
     img {
-        width: 100%;
+        max-width: 100%;
         height: 100%;
         /* filter: brightness(90%); */
         transition: 0.3s;
@@ -588,7 +588,7 @@ i {
     color: var(--darkGray);
 
     img {
-        width: 100%;
+        max-width: 100%;
     }
 
     button {
