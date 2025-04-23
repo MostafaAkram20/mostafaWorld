@@ -1,0 +1,33 @@
+/*  for general stylings (both, mobile && desktop) */
+@media (max-width: 320px) {
+
+
+}
+
+/* // for only styles between 320px and 768px (most mobile devies) */
+@media (max-width: 767px) {
+
+
+
+}
+/* // general desktop && tablet styles if needed */
+@media (min-width: 768px) {
+
+
+}
+/* // only tablet styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+
+
+}
+
+/* // Large devices (desktops, 992px and up) */
+/* // start with desktop styling */
+@media (min-width: 1025px) {
+
+}
+/* very Large screens */
+@media (min-width: 1400px) {
+
+}
+
