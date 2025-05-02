@@ -291,7 +291,7 @@ nav {
 
     img {
         position: relative;
-        max-width: 100%;
+        width: 100%;
         animation: up-down 4s linear infinite;
     }
 }
@@ -432,7 +432,7 @@ nav {
     /* padding: 5px; */
     margin: 15px;
     img {
-        max-width: 100%;
+        width: 100%;
     }
     border: none;
     box-shadow:0 2px 15px rgb(0 0 0 / 10%);
@@ -569,12 +569,12 @@ i {
 
 .section4 {
     padding: 50px 0px;
-
+    
 }
 
 .features-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
     gap: 30px;
 }
 
@@ -584,11 +584,9 @@ i {
     border: 0.5px solid gainsboro;
     padding: 10px;
     overflow: hidden;
-    /* height: 80vh; */
     color: var(--darkGray);
-
     img {
-        max-width: 100%;
+        width: 100%;
     }
 
     button {
